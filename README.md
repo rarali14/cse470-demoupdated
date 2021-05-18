@@ -1,1 +1,1 @@
-# cse470-demoupdated
+# cse470-demo
